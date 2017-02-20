@@ -1,6 +1,6 @@
 # spring-security-dynamic-authorization-and-authentication
-Md Faiz Akram
-http://faizakram.com/
+Md Faiz Akram<br>
+http://faizakram.com/<br>
 Avoid intercept url pattern and access dynamically by using sql query in spring security.
 
 use sql query for retriving roles of the requested URL. Generally we use intercept tag in xml along with url and roles attributes. we can avoid this tag and we can retrive those information form db.
